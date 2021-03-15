@@ -1,1 +1,38 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: black;
+}
+
+.card {
+  /* height: 9cm;
+  width: 6cm; */
+  background-color: white;
+  border-radius: 10px;
+}
+
+.cardIcon {
+  font-size: 4rem;
+  position: relative;
+}
+
+.cardText {
+  font-size: 8rem;
+}
+
+.cardRed {
+  color: red;
+}
+
+.cardBlack {
+  color: black;
+}
+
+.button {
+  color: white;
+}
+
+.form-group {
+  width: 2cm;
+  padding-left: 0px;
+}
